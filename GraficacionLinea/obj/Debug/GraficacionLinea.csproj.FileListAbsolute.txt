@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\bin\Debug\GraficacionLinea.exe.config
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\bin\Debug\GraficacionLinea.exe
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\bin\Debug\GraficacionLinea.pdb
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.Form1.resources
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.Properties.Resources.resources
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.exe
+C:\Users\andre\Desktop\SEXTO SEMESTRE\GRAFICACION\Linea\GraficacionLinea\GraficacionLinea\obj\Debug\GraficacionLinea.pdb
